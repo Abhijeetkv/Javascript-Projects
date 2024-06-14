@@ -49,6 +49,8 @@
   .projects {
     display: flex;
     flex-direction: column;
+    background: #31d36a;
+    border-radius:4px;
   }
   
   .project-link {
